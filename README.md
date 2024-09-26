@@ -48,4 +48,3 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/Kabilan-2003/Candidate Data Management System Using Neo4j.git
-   cd your-repo-name
